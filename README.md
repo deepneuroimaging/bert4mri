@@ -1,0 +1,1 @@
+This repository contains the Python source code for training BERT-based classifiers to predict MRI protocol labels in a nine-class classification task. A sequence classification head was added to each pre-trained BERT model, while the encoder weights were kept frozen. 
